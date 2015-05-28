@@ -1,0 +1,45 @@
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Form1.resources
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Properties.Resources.resources
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\Homework 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Form1.resources
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Properties.Resources.resources
+C:\Users\iii\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csproj.GenerateResource.Cache
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.pdb
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Form1.resources
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Properties.Resources.resources
+C:\Users\Cheng\Desktop\C#入門\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csproj.GenerateResource.Cache
+C:\Users\Cheng\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+C:\Users\Cheng\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+C:\Users\Cheng\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.pdb
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Form1.resources
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework_台灣樂透.Properties.Resources.resources
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透模擬程式\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透模擬程式\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+C:\Users\iii\Desktop\Homework 2015-01-19 台灣樂透模擬程式\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
+\\CR4-Teacher\C#入門作業\林昱丞\Homework 2015-01-19 台灣樂透模擬程式\Homework 台灣樂透\bin\Debug\Homework 台灣樂透.exe.config
+\\CR4-Teacher\C#入門作業\林昱丞\Homework 2015-01-19 台灣樂透模擬程式\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.exe
+\\CR4-Teacher\C#入門作業\林昱丞\Homework 2015-01-19 台灣樂透模擬程式\Homework 台灣樂透\obj\Debug\Homework 台灣樂透.pdb
